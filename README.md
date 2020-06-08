@@ -32,9 +32,6 @@ Files:
 
 ### [Licensing and Acknowledgements](#Licensing)
 
-I would like to thank Udacity for their ideas and support for this project. 
-
-I would like to acknowledge the following for their licensing and open data: 
 1. Area Codes for Boston https://en.wikipedia.org/wiki/List_of_Massachusetts_area_codes
 2. Police codes per area; https://bpdnews.com/districts
 3. Kaggle Police Crimes https://www.kaggle.com/ankkur13/boston-crime-data/version/3
